@@ -1,2 +1,0 @@
-# Follina
-FollinaCTF Walkthrough
