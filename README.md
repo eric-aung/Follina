@@ -8,8 +8,8 @@ Tools Used
 
 VirusTotal - hash lookup, file type identification, contacted URLs
 Linux CLI - sha1sum, cat, file extraction
-Any.run / online sandbox — behavioural analysis, MITRE mapping
-OSINT / Huntress blog — detection rule research
+Any.run / online sandbox - behavioural analysis, MITRE mapping
+OSINT / Huntress blog - detection rule research
 
 Q 1: What is the SHA1 hash value of the sample?
 
