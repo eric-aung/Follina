@@ -36,7 +36,7 @@ Malicious URL was found inside word/_rels/document.xml.rels. In the Office Open 
 
 ![Image](https://github.com/eric-aung/Follina/blob/76ba9faa75afd0c2fe0a3fcd58a478f94cec3a99/Extracted%20URL.jpg?raw=true)
 ![Image](https://github.com/eric-aung/Follina/blob/76ba9faa75afd0c2fe0a3fcd58a478f94cec3a99/Extracted%20URL%20linux.jpg?raw=true)
-
+![Image](https://github.com/eric-aung/Follina/blob/460dc88cd7862778a5e4cfbefa50c3f9ddc73733/q4.jpg?raw=true)
 As for Q 5, security researcher John Hammond wrote that the HTML file fetched from the remote URL must be at least 4096 bytes in size to trigger Follina vulnerability. Files smaller than this threshold will not invoke the payload.
 
 ![Image](https://github.com/eric-aung/Follina/blob/22e70f3dea89ceab6496264f9d1a1a64caf39ee2/Payload%20Provoke%20bytes.jpg?raw=true)
