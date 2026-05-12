@@ -1,5 +1,5 @@
 # Follina
-FollinaCTF Walkthrough
+Follina CTF Walkthrough
 
 Overview: 
 This report documents my analysis of a malicious Word document exploiting the Follina vulnerability (CVE-2022-30190), completed as part of a Blue Team Labs challenge. The investigation covers file identification, static analysis, dynamic behaviour, detection engineering, and MITRE ATT&CK mapping.
